@@ -116,10 +116,10 @@ The project follows a real-time machine learning pipeline for sign language dete
 ## Usage
 
 1. Activate your virtual environment.
-2. Run the main Python script:
+2. Run the test Python script:
 
 ```bash
-python main.py
+python test.py
 ```
 
 3. Perform hand gestures in front of the webcam.
